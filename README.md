@@ -2,6 +2,8 @@
 
 > A real-time, touchless desktop presentation controller powered by Computer Vision and OpenCV. GestureDesk enables users to control PowerPoint and PDF presentations, annotate slides, zoom, and navigate seamlessly using hand gestures captured by a standard webcam.
 
+![GestureDesk Live HUD Interface](screenshot.png)
+
 ---
 
 ## ✨ Features
