@@ -15,7 +15,7 @@
 * **🤟 Three Fingers:** Jump directly to the First Slide (`Home`)
 * **👆 Index Finger Point:** Horizontal Swipe Tracking (Next / Previous Slide)
 * **🤏 Pinch Gesture:** Dynamic Distance Sensing (Continuous Zoom In / Zoom Out)
-* **💻 Custom OpenCV HUD:** Real-time visual interface displaying live FPS, current gesture state, hold progress bars, pinch meters, and action logs.
+* **💻 Custom OpenCV HUD:** Real-time visual interface displaying live FPS, current gesture state, hold progress bars, pinch meters and action logs.
 
 ---
 
